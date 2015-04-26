@@ -1,0 +1,58 @@
+"b_acc_x_mean" 
+Mean of the body acceleration readings in the X plane
+
+"b_acc_x_std" 
+Standard deviation of the body acceleration readings in the X plane
+
+"b_acc_y_mean" 
+Mean of the body acceleration readings in the Y plane
+
+"b_acc_y_std"
+Standard deviation of the body acceleration readings in the Y plane
+
+"b_acc_z_mean" 
+Mean of the body acceleration readings in the z plane
+
+"b_acc_z_std" 
+Standard deviation of the body acceleration readings in the z plane
+
+"b_gyro_x_mean" 
+Mean of the body gyroscope readings in the X plane
+
+"b_gyro_x_std" 
+Standard deviation of the body gyroscope readings in the X plane
+
+"b_gyro_y_mean"
+Mean of the body gyroscope readings in the Y plane
+
+ "b_gyro_y_std" 
+Standard deviation of the body gyroscope readings in the Y plane
+
+"b_gyro_z_mean" 
+Mean of the body gyroscope readings in the z plane
+
+"b_gyro_z_std" 
+Standard deviation of the body gyroscope readings in the Z plane
+
+"t_acc_x_mean" 
+Mean of the total acceleration in the X plane
+
+"t_acc_x_std" 
+Standard deviation of the total acceleration in the X plane
+
+"t_acc_y_mean" 
+Mean of the total acceleration in the Y plane
+
+"t_acc_y_std" 
+Standard deviation of the total acceleration in the Y plane
+
+"t_acc_z_mean" 
+Mean of the total acceleration in the Z plane
+
+"t_acc_z_std" 
+Standard deviation of the total acceleration in the Z plane
+"Subject" 
+	A subject ID number.  Identifies subjects 1-30
+
+"Activity"
+	An activity identifier.  Includes LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS AND WALKING_UPSTAIRS
